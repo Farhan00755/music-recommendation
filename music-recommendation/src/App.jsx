@@ -45,7 +45,7 @@ function App() {
 
   return (
     <>
-      <h1>Music Recommendation</h1>
+  <h1 className='text-2xl'>Music Recommendation</h1>
       <div className="card" style={{ display: 'grid', gap: 12 }}>
         <label>
           Mood
